@@ -61,5 +61,10 @@ namespace WindowsFormsApp2
             double area = height * width;
             return area;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ali \r\n reza \r\n ahmad");
+        }
     }
 }
