@@ -19,7 +19,8 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //MessageBox.Show(CalcRactaArea(double.Parse(txtWidth.Text), double.Parse(txtHeight.Text)).ToString());
+            //از کامنت در اوردم برو حال کن من علیم
+            MessageBox.Show(CalcRactaArea(double.Parse(txtWidth.Text), double.Parse(txtHeight.Text)).ToString());
 
             double width = double.Parse(txtWidth.Text);
             double height = double.Parse(txtHeight.Text);
