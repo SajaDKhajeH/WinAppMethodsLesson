@@ -42,6 +42,10 @@ namespace WindowsFormsApp2
         {
 
         }
+        void MyNewMethod()
+        {
+
+        }
         Image ResizeImage(Image i, int width = 300, int height = 400)
         {
             //resize image
