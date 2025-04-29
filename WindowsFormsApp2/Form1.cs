@@ -67,5 +67,10 @@ namespace WindowsFormsApp2
         {
             MessageBox.Show("ali \r\n reza \r\n ahmad \r\n mehdi");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Text = "sajad";
+        }
     }
 }
